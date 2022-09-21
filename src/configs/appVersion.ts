@@ -1,3 +1,3 @@
-export const commitID = '8e6819bb209c94f9f2c25e11284ade56dfe0e40e';
+export const commitID = 'c67e5982707494c632716f7445f08675bbd930f8';
 
-export const commitMssg = 'dockerfile fixed for post-commit hook';
+export const commitMssg = 'migracion a repo de todos los hacker ranks';

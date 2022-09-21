@@ -1,13 +1,11 @@
-import { bigTestCode } from 'src/sub1/sub2/bigTestCode';
+import { challangeTester } from 'src/Basic/ch-1';
 
-function main() {
+/**
+ * Import your challanges and test them here :D
+ */
+function TestChallange() {
   console.log('---------- Cool Programing ----------\n');
-  smallTestCode();
-  bigTestCode();
+  challangeTester();
 }
 
-main();
-
-function smallTestCode() {
-  console.log('Do some small stuff');
-}
+TestChallange();
